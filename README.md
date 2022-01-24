@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hermi55
+- 👋 Hi, I’m @xxx
 - 👀 I’m interested in html css and javascript
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on html and css
